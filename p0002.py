@@ -7,5 +7,4 @@ while x <= 4000000:
 
 	x, y = y, x + y
 
-
 print(res)
